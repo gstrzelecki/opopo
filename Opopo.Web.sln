@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opopo.Web", "Opopo.Web\Opopo.Web.csproj", "{85366BE8-C68B-47B2-8158-204382FF1C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opopo.Web.Tests", "..\..\Users\gstrzelecki\Documents\Visual Studio 2013\Projects\Opopo.Web\Opopo.Web.Tests\Opopo.Web.Tests.csproj", "{0685523C-9958-4B8C-A728-67EA827C37F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opopo.Web.Tests", "Opopo.Web.Tests\Opopo.Web.Tests.csproj", "{0685523C-9958-4B8C-A728-67EA827C37F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
