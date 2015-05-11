@@ -6,7 +6,7 @@ namespace Opopo.Web.Models
     public class TenantDbContext : DbContext
     {
         public TenantDbContext()
-            : base("DefaultConnection")
+            : base("OpopoConnection")
         {
         }
 
